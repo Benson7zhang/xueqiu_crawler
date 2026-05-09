@@ -1,0 +1,18 @@
+.DS_Store
+.idea/
+.skill
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Local credentials for classroom demos.
+.xueqiu_cookie
+.env
+
+# Runtime output.
+logs/*.log
+data/*.csv
+data/*.db
+data/*.sqlite
+data/*.sqlite3
